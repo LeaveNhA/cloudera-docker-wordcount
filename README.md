@@ -3,8 +3,6 @@
 Project is ready-to-run for the desired output. Input is not specified by the homework,
 then I decided to use something from Shakespear as an homage of a kind.
 
-The specifications will be filled under the README.
-
 ### Running the HomeWork
 
 #### 1. clone this github repository
