@@ -51,3 +51,27 @@ starting the container...
 (swart-complexioned,1)
 (,0)
 ```
+
+### Specifications
+
+You can follow the further content in the schema of: Specification, and the implementation choice by filling it.
+
+#### Input
+
+unspecified, by homework.
+
+#### Input: HW
+
+THE SONNETS by William Shakespeare.
+
+#### Environment
+
+unspecified, by homework.
+
+#### Environment: HW
+
+Docker, quickstart image as base and programmed to present the homework. You can simply extend this content on the Cloudera servers.
+
+#### ANY OTHER RESTRICTIONS
+
+None.
